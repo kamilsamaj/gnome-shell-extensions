@@ -7,4 +7,4 @@ cd ~/.local/share/gnome-shell/extensions/
 git clone https://github.com/kamilsamaj/gnome-shell-extensions.git
 ```
 
-Log out from Gnome, log back in.
+Log out from Gnome, log back in. Alternatively, press Alt+F2 and type `r`
